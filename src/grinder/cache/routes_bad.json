@@ -1,0 +1,289 @@
+{
+	"kanto": {
+		"Birth Island": {}
+	},
+	"johto": {
+		"Whirl Islands": {
+			"Pokémon HeartGold": {
+				"name": [
+					"Lugia"
+				],
+				"rate": [
+					"--%"
+				],
+				"level": [
+					"70 - 70"
+				]
+			},
+			"Pokémon SoulSilver": {
+				"name": [
+					"Lugia"
+				],
+				"rate": [
+					"--%"
+				],
+				"level": [
+					"45 - 45"
+				]
+			},
+			"Pokémon HeartGold & Pokémon SoulSilver": {
+				"name": [
+					"Absol",
+					"Makuhita",
+					"Bronzor",
+					"Chingling"
+				],
+				"rate": [
+					"20%",
+					"Hoenn Sound",
+					"20%",
+					"Hoenn Sound",
+					"20%",
+					"Sinnoh Sound",
+					"20%",
+					"Sinnoh Sound"
+				],
+				"level": [
+					"23 - 24",
+					"25 - 25",
+					"23 - 24",
+					"25 - 25"
+				]
+			}
+		}
+	},
+	"hoenn": {
+		"Victory Road": {
+			"Pokémon Omega Ruby": {
+				"name": [
+					"Barboach",
+					"Barboach"
+				],
+				"rate": [
+					"100%",
+					"100%"
+				],
+				"level": [
+					"35 - 35",
+					"35 - 35"
+				]
+			},
+			"Pokémon Alpha Sapphire": {
+				"name": [
+					"Barboach"
+				],
+				"rate": [
+					"100%"
+				],
+				"level": [
+					"35 - 35"
+				]
+			},
+			"Pokémon Trainer Wally": {
+				"name": [],
+				"rate": [],
+				"level": [
+					"Level 46",
+					"Level 46",
+					"Level 46",
+					"Level 46",
+					"Level 48"
+				]
+			}
+		}
+	},
+	"sinnoh": {
+		"Wayward Cave": {
+			"Pokémon Diamond": {
+				"name": [
+					"Bronzor",
+					"Zubat",
+					"Gible",
+					"Geodude"
+				],
+				"rate": [
+					"40%",
+					"35%",
+					"15%",
+					"10%"
+				],
+				"level": [
+					"15 - 17",
+					"15 - 17",
+					"15 - 17",
+					"16 - 16"
+				]
+			},
+			"Pokémon Pearl": {
+				"name": [
+					"Bronzor",
+					"Zubat",
+					"Gible",
+					"Geodude"
+				],
+				"rate": [
+					"40%",
+					"35%",
+					"15%",
+					"10%"
+				],
+				"level": [
+					"15 - 17",
+					"15 - 17",
+					"15 - 17",
+					"16 - 16"
+				]
+			},
+			"Pokémon Platinum": {
+				"name": [
+					"Sandshrew"
+				],
+				"rate": [
+					"8%",
+					"LeafGreen"
+				],
+				"level": [
+					"18 - 20"
+				]
+			},
+			"Pokémon Diamond & Pokémon Pearl": {
+				"name": [
+					"Sandshrew"
+				],
+				"rate": [
+					"8%",
+					"LeafGreen"
+				],
+				"level": [
+					"16 - 17"
+				]
+			}
+		}
+	},
+	"unova": {
+		"White Forest": {}
+	},
+	"kalos": {
+		"Victory Road": {
+			"Pokémon X": {
+				"name": [
+					"Poliwhirl",
+					"Basculin",
+					"Poliwrath",
+					"Poliwhirl",
+					"Basculin",
+					"Poliwrath"
+				],
+				"rate": [
+					"70%",
+					"30%",
+					"5%",
+					"70%",
+					"30%",
+					"5%"
+				],
+				"level": [
+					"55 - 55",
+					"55 - 55",
+					"60 - 60",
+					"55 - 55",
+					"55 - 55",
+					"60 - 60"
+				]
+			},
+			"Pokémon Y": {
+				"name": [
+					"Poliwhirl",
+					"Basculin",
+					"Poliwrath"
+				],
+				"rate": [
+					"70%",
+					"30%",
+					"5%"
+				],
+				"level": [
+					"55 - 55",
+					"55 - 55",
+					"60 - 60"
+				]
+			},
+			"Pokémon Trainer Serena": {
+				"name": [],
+				"rate": [],
+				"level": [
+					"Level 57",
+					"Level 57",
+					"Level 57",
+					"Level 59",
+					"Level 61"
+				]
+			},
+			"Pokémon Trainer Calem": {
+				"name": [],
+				"rate": [],
+				"level": [
+					"Level 57",
+					"Level 57",
+					"Level 57",
+					"Level 59",
+					"Level 61"
+				]
+			},
+			"Pokémon Ranger Petra": {
+				"name": [],
+				"rate": [],
+				"level": [
+					"Level 57",
+					"Level 57"
+				]
+			},
+			"Pokémon Ranger Ralf": {
+				"name": [],
+				"rate": [],
+				"level": [
+					"Level 59"
+				]
+			}
+		}
+	},
+	"alola": {
+		"Wela Volcano Park": {
+			"Pokémon Ultra Sun": {
+				"name": [],
+				"rate": [],
+				"level": []
+			},
+			"Pokémon Ultra Moon": {
+				"name": [],
+				"rate": [],
+				"level": []
+			},
+			"Pokémon Sun": {
+				"name": [],
+				"rate": [],
+				"level": []
+			},
+			"Pokémon Moon": {
+				"name": [],
+				"rate": [],
+				"level": []
+			}
+		}
+	},
+	"galar": {
+		"Max Lair": {}
+	},
+	"orre": {
+		"Under Colosseum": {}
+	},
+	"fiore": {
+		"Wintown": {}
+	},
+	"almia": {
+		"Volcano Cave": {}
+	},
+	"oblivia": {
+		"Oblivia Region - Sky": {}
+	}
+}

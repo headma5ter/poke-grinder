@@ -2,7 +2,7 @@ from collections import OrderedDict
 
 from grinder.helpers import html as html_
 from grinder.containers import move
-from grinder import GENERATION
+from grinder import config_handler
 
 
 class Pokemon:
@@ -15,7 +15,7 @@ class Pokemon:
     def _get_all_roots(self) -> dict:
         hyperlinks = {
             "general": f"https://pokemondb.net/pokedex/{self._species.lower()}",
-            "moves": f"https://pokemondb.net/pokedex/{self._species.lower()}/moves/{GENERATION}",
+            "moves": f"https://pokemondb.net/pokedex/{self._species.lower()}/moves/{config_handler.generation}",
         }
         return {key: html_.parse_url(link) for key, link in hyperlinks.items()}
 
